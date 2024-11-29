@@ -25,5 +25,14 @@ function calculate(operation) {
                 break;
             }
         }
+
+
+
+
+
+
+
+
+        
     document.getElementById('result').textContent = result;
 }
